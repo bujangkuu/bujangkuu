@@ -1,21 +1,29 @@
-# Hello, I'm [Nama Anda]!
+# Hello, I'm Salman Arrasuli Jamil!
 
-Combining expertise in ensuring optimal product quality with a keen attention to detail. Let's create something extraordinary together!
+Currently, I'm looking for new skills and challenging positions, one which will make best use of my existing experiences. Furthermore, I'm eager to enhance personal and professional development.
 
 ## 🛠️ Technologies & Tools
-- **Testing Tools:** Selenium, Postman
-- **Databases:** PostgreSQL
-- **Languages:** JavaScript, Python
-- **Frameworks:** Express.js, Daisyu
+- **Software Development Life Cycle (SDLC)**
+- **Version Control:** Git & GitHub
+- **Testing Tools:** Selenium, JMeter, Postman API, Katalon Studio, Cypress
+- **Languages:** Familiar with Java, HTML, and CSS
+- **Project Management:** Trello / Jira
+- **API Automation**
+- **Website Development:** Familiar with CMS
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+## 📞 Contact Information
+- **Phone:** 089636277896
+- **Email:** [bujangg03@gmail.com](mailto:bujangg03@gmail.com)
 
-### 📈 Contributions
-- **Total Contributions:** ![Total Contributions](https://badges.gitter.im/USERNAME/USERNAME.svg)
-- **Current Streak:** ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical)
-- **Longest Streak:** ![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical)
+## 📊 Current Position
+- **QA Engineer** at PT Bank Negara Indonesia
+- **Product Manager** at Inside Job
+
+## 📈 Contributions
+- **Total Contributions:** ![Total Contributions]
+- **Current Streak:** ![Current Streak]
+- **Longest Streak:** ![Longest Streak]
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+- [LinkedIn](#)  <!-- Ganti dengan tautan LinkedIn Anda -->
+- [Twitter](#)   <!-- Ganti dengan tautan Twitter Anda -->
