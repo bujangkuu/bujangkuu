@@ -1,34 +1,21 @@
-# 👋 Selamat Datang di Profil GitHub Saya!
+# Hello, I'm [Nama Anda]!
 
-Saya adalah **QA Engineer** yang berdedikasi dengan pengalaman dalam memastikan kualitas perangkat lunak melalui pengujian manual dan otomatis. Saya percaya bahwa kualitas adalah kunci untuk kesuksesan produk, dan saya bersemangat untuk menciptakan pengalaman pengguna yang luar biasa.
+Combining expertise in ensuring optimal product quality with a keen attention to detail. Let's create something extraordinary together!
 
----
+## 🛠️ Technologies & Tools
+- **Testing Tools:** Selenium, Postman
+- **Databases:** PostgreSQL
+- **Languages:** JavaScript, Python
+- **Frameworks:** Express.js, Daisyu
 
-## 🔧 Keahlian Saya
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
 
-- **Pengujian Manual**: Perancangan dan pelaksanaan skenario pengujian untuk memastikan fungsionalitas yang tepat.
-- **Pengujian Otomatis**: Penggunaan alat seperti Selenium, JUnit, dan TestNG untuk mengotomatisasi pengujian.
-- **Alat Manajemen Proyek**: Familiar dengan Jira, Trello, dan Asana untuk melacak kemajuan dan kolaborasi dalam tim.
-- **Bahasa Pemrograman**: Pengalaman dengan Java, Python, dan JavaScript untuk pengujian dan pengembangan skrip otomatis.
-- **Pengujian API**: Memanfaatkan Postman dan REST Assured untuk menguji endpoint API.
+### 📈 Contributions
+- **Total Contributions:** ![Total Contributions](https://badges.gitter.im/USERNAME/USERNAME.svg)
+- **Current Streak:** ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical)
+- **Longest Streak:** ![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical)
 
----
-
-## 🌟 Proyek Unggulan
-
-- **[Nama Proyek 1](tautan-proyek-1)**: Deskripsi singkat tentang proyek ini, tantangan yang dihadapi, dan solusi yang diterapkan.
-- **[Nama Proyek 2](tautan-proyek-2)**: Deskripsi singkat tentang proyek ini, alat yang digunakan, dan hasil akhirnya.
-- **[Nama Proyek 3](tautan-proyek-3)**: Deskripsi singkat tentang proyek ini, dan bagaimana kontribusi Anda meningkatkan kualitas.
-
----
-
-## 📫 Hubungi Saya
-
-Saya selalu terbuka untuk kolaborasi dan diskusi lebih lanjut. Anda dapat menghubungi saya melalui:
-
-- **Email**: [email@domain.com](mailto:email@domain.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/username)
-
----
-
-Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menjelajahi proyek-proyek saya dan memberikan umpan balik.
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
